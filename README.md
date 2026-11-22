@@ -6,7 +6,9 @@ A plumb line is a weight on a string. It shows you what is straight. It does not
 
 That is how I build. I make business tools with AI, and I also build the checks that test them. So when I say a tool works, you can see the proof.
 
-I'm Kyle Knight. I run Plumbline Studio from Roanoke, Virginia. I build systems that help a business grow past what its owner can carry alone.
+Plumbline Studio LLC builds apps, portals and AI tools for partners and business owners. Founded by Kyle Knight in Roanoke, Virginia, in 2026.
+
+I'm Kyle Knight. I build systems that help a business grow past what its owner can carry alone. Partners bring me the builds their clients need. I build them, test them and hand them back.
 
 ## Things you can look at
 
@@ -24,4 +26,6 @@ I'm Kyle Knight. I run Plumbline Studio from Roanoke, Virginia. I build systems 
 
 ## Say hi
 
-[plumblinestudio.dev](https://plumblinestudio.dev) · kyle@plumblinestudio.dev · [LinkedIn](https://linkedin.com/in/kyleknight-systems)
+Site: [plumblinestudio.dev](https://plumblinestudio.dev) · About: [plumblinestudio.dev/about](https://plumblinestudio.dev/about/) · Email: kyle@plumblinestudio.dev · LinkedIn: [linkedin.com/in/kyleknight-systems](https://linkedin.com/in/kyleknight-systems)
+
+Toolwright, the product for builders: [toolwright.dev](https://toolwright.dev)
